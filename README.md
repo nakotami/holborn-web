@@ -1,2 +1,2 @@
 # holborn-web
-The web client for accessing Holborn services.
+A VR level creation platform built upon WebXR.
